@@ -16,7 +16,6 @@ public class CursoController {
 
     @Autowired
     public CursoController() {
-        // Adicionando alguns cursos iniciais
         cursos.add(new Curso("Curso para Correr", 120));
         cursos.add(new Curso("Curso para ser Bonito", 80));
     }
@@ -58,6 +57,3 @@ public class CursoController {
 
 // Nome: Matheus Ricardo
 // RA: 10418754
-
-// Nome: Beatriz Pimenta
-// RA: 10428378

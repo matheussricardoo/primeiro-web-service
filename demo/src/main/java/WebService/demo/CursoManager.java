@@ -18,6 +18,3 @@ public class CursoManager {
 
 // Nome: Matheus Ricardo
 // RA: 10418754
-
-// Nome: Beatriz Pimenta
-// RA: 10428378
